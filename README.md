@@ -1,4 +1,4 @@
-# Hai, saya Wan Nur Hijannah! 👋
+# Hi, I am Wan Nur Hijannah! 👋
 
 Selamat datang ke profil GitHub saya! Saya sedang mempelajari selok-belok dunia pengaturcaraan dan pembangunan perisian.
 
