@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hai, saya Wan Nur Hijannah! 👋
 
-<!--
-**wannurhijannah-cell/wannurhijannah-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya! Saya sedang mempelajari selok-belok dunia pengaturcaraan dan pembangunan perisian.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 Mengenai Saya
+
+- 🎓 **Pendidikan / Latar Belakang:** Data Engineering Student at Universiti Teknologi Malaysia (UTM)
+- 🔭 **Sedang Mempelajari:** GitHub, HTML, CSS, dan JavaScript
+- 🌱 **Fokus Semasa:** Membina projek-projek kecil untuk mengukuhkan kefahaman
+- 💬 **Tanya Saya Tentang:** Asas pemrograman dan pengalaman belajar
+- 📬 **Cara Hubungi Saya:** wannurhijannah@graduate.utm.my | (https://www.linkedin.com/in/wan-nur-hijannah-24780440b/)
+---
+
+### 🛠️ Kemahiran & Perkakas (Skills & Tools)
+
+- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript *(contoh)*
+- **Perkakas (Tools):** Git, GitHub, VS Code
+
+---
+
+### 📊 Statistik GitHub
+
+![Statistik GitHub Wan Nur Hijannah](https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_ANDA&show_icons=true&theme=radial)
+
+---
+
+💡 *Quote kegemaran:* "Setiap pakar dahulunya adalah seorang pemula."
